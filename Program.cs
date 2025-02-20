@@ -5,8 +5,10 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hej, Simon hjælper med github");
-            Console.WriteLine("Nu skal vi lave en ny ændring"); 
+            Console.WriteLine("Hej, Simon hjælper dwdodokw");
+            Console.WriteLine("Nu skal vi HAHAHAHAHAHAHAHA lave en ny ændring"); 
+
+            // Simon: Jeg har lavet en ny ændring
         }
     }
 }
