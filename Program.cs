@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hej, Simon hjælper med github");
+            Console.WriteLine("Nu skal vi lave en ny ændring"); 
         }
     }
 }
